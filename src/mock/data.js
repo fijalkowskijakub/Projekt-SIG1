@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Kto robi gały kosmitom',
   name: 'Patryk!',
-  subtitle: '',
+  subtitle: 'Jestem najlepszy w robieniu loda',
   cta: '',
 };
 
