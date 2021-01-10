@@ -10,7 +10,7 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: 'Kto robi gały kosmitom',
-  name: '',
+  name: 'Patryk!',
   subtitle: '',
   cta: '',
 };
